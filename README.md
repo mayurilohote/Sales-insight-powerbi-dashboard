@@ -71,3 +71,6 @@ These insights can help the sales team optimize strategy and focus on profitable
 
 ---
 
+## Interactive Power BI Dashboard  
+[Click below to view the live report]
+(https://app.powerbi.com/links/JRT3lxI7Ha?ctid=45d49bec-2828-46e2-ac06-f38755f4d747&pbi_source=linkShare)
